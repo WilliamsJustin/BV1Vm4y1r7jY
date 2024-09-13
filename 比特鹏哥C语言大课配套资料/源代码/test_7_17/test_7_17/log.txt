@@ -1,0 +1,10 @@
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=0
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=1
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=2
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=3
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=4
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=5
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=6
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=7
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=8
+file:D:\code\2022\class106\test_7_17\test_7_17\test.c line=82 date:Jul 17 2022 time:12:07:12 i=9
